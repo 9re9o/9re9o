@@ -15,7 +15,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 📊 Actividad Reciente
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=9re9o&theme=github)
+![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=9re9o&theme=github)
 
 **Desarrollador Full Stack en formación** · Estudiante de Ingeniería en Sistemas (UNA)  
 📍 Costa Rica · 💻 Software Development

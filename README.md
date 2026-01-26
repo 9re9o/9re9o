@@ -17,8 +17,6 @@
 ### 📊 Actividad Reciente
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=9re9o&theme=github)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=9re9o&show_icons=true&theme=default)
-
 **Desarrollador Full Stack en formación** · Estudiante de Ingeniería en Sistemas (UNA)  
 📍 Costa Rica · 💻 Software Development
 

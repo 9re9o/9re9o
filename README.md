@@ -15,8 +15,8 @@
 ---
 
 ### 👋 Sobre mí
-Desarrollador en formación con experiencia académica en aplicaciones **web y móviles**.
-He trabajado con **React, Node.js y Flutter**, participando en el **ciclo de vida del software**
+Ingeniero en sistemas de información con experiencia académica en aplicaciones **web y móviles**.
+He trabajado con **React, Node.js y Flutter, JS, TS, .NET, SQL**, participando en el **ciclo de vida del software**
 (análisis, diseño, implementación y pruebas). Me enfoco en automatización de procesos, buenas prácticas
 y trabajo colaborativo.
 
